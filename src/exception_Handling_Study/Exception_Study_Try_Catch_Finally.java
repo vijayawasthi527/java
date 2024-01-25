@@ -18,7 +18,7 @@ public class Exception_Study_Try_Catch_Finally {
 		} 
 		catch (StringIndexOutOfBoundsException e)
 		{
-			System.out.println("Cant locate the character out of bound");
+			System.out.println("Can't locate the character out of bound");
 		}
 		
 		catch (IndexOutOfBoundsException e)
