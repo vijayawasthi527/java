@@ -5,6 +5,7 @@ public class SubClass extends SuparClass {
 	public static void main(String[] args)
 	{
 		
+		
 
 	}
 	
