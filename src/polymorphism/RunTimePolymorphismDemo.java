@@ -9,6 +9,10 @@ public class RunTimePolymorphismDemo  {
 		
 		Son s=new Son();
 		s.money();
+		s.car();
+		
+		
+		
 // this also known as overriding because both class have the same method name but
 		// at run time its execute on the basis of object through which we have called it
 	

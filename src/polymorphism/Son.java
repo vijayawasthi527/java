@@ -11,4 +11,8 @@ public class Son extends Father {
 		System.out.println("This is the son's money");
 	}
 
+	public void bike()
+	{
+		System.out.println("Son's bike");
+	}
 }
