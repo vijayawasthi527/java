@@ -16,14 +16,16 @@ public class TreeSetStudy {
 		ts.add(11);
 		
 		System.out.println(ts);
-	
+	System.out.println("===============================");
 		System.out.println(ts.ceiling(13));
-		
+		System.out.println("++++++++++++++++++++++++++++++++=");
 		System.out.println(ts.first());
-		
+		System.out.println("&&&&&&&&&&&&&&&&&&&&&&");
 		System.out.println(ts.floor(9));
+		System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$");
 		
 		System.out.println(ts.higher(46));
+		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
 		
 		System.out.println(ts.first());
 		

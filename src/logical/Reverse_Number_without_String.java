@@ -11,7 +11,7 @@ public class Reverse_Number_without_String {
 		{
 			int rem=i%10;
 			revNum=revNum*10+rem;
-					
+//			System.out.println(revNum);		
 		}
 		System.out.println(revNum);
 	}

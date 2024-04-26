@@ -25,7 +25,7 @@ public class String_Builder_Study {
 		
 		name.insert(12,"zzzz");
 		System.out.println(name);
-		
+		System.out.println("+++++++++++++++++++++++++++");
 		System.out.println(name.length());
 		System.out.println(name.capacity());
 		

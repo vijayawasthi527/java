@@ -8,7 +8,7 @@ public class Triangle_Left_Descending
 //	****
 //	***
 //	**
-//	**
+//	*
 	
 	
 	public static void main(String[] args)

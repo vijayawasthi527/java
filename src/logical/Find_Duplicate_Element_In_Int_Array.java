@@ -1,6 +1,6 @@
 package logical;
 
-public class Find_Duplicate_Element_In_Array {
+public class Find_Duplicate_Element_In_Int_Array {
 
 	public static void main(String[] args)
 	{

@@ -34,7 +34,7 @@ public class ArrayUses1 {
 		rollNumbers[3]=4;
 		rollNumbers[4]=00;
 		
-	
+	System.out.println(rollNumbers.length);
 		
 		Arrays.sort(rollNumbers);
 		

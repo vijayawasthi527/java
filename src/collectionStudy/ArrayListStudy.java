@@ -18,6 +18,8 @@ public class ArrayListStudy {
 		al.add("Gopal");
 		al.add("Sandhya");
 		al.add("Vinayak");
+		al.add('y');
+		System.out.println(al.size());
 		
 		System.out.println(al);
 		
@@ -25,6 +27,7 @@ public class ArrayListStudy {
 		al1.add(12);
 		al1.add(34);
 		al1.add(45);
+		
 		
 		System.out.println(al1);
 		

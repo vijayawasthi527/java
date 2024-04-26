@@ -13,12 +13,13 @@ public class VariousMethodsOfStringClass {
 	
 	String k="rahul";
 	String t="rahul";
-	
+	System.out.println("++++++++++++++++++++++++");
 	System.out.println(a1.length());
 	//System.out.println(length);
 	
 	boolean check=a1.isBlank();
 	System.out.println(check);
+	System.out.println("********************************");
 	System.out.println(a5.isBlank());
 	System.out.println(a5.isEmpty());
 	System.out.println(a1.equals(a6));//case sensitive hai
@@ -29,6 +30,7 @@ public class VariousMethodsOfStringClass {
 	System.out.println(a3);
 	System.out.println(a3.trim());//trims the white space before and after the string value
 	System.out.println(a2.contains("ij"));//true
+	System.out.println("&&&&&&&&&&&&&&&&&&&&&");
 	System.out.println(a1==a2);//false
 	System.out.println(k==t);//true
 	System.out.println("2.============================");

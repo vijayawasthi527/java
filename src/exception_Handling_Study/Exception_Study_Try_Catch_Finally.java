@@ -14,7 +14,10 @@ public class Exception_Study_Try_Catch_Finally {
 		try 
 		{
 			//System.out.println(a/b);
+			
 			System.out.println(name.charAt(9));
+			
+			
 		} 
 		catch (StringIndexOutOfBoundsException e)
 		{

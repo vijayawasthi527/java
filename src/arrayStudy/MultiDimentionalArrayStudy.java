@@ -33,7 +33,7 @@ public class MultiDimentionalArrayStudy {
 			System.out.println();
 		}
 		
-		
+	
 		String players[][]=new String[3][3];
 		players [0][0]="sachn";
 		players [0][1]="sehwg";

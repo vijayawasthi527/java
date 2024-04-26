@@ -11,6 +11,7 @@ public class SuparClass {
 	public void printing()
 	{
 		System.out.println("This is the print method from super Class");
+		
 	}
 	
 	public void publishing()

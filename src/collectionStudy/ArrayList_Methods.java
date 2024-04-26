@@ -6,7 +6,7 @@ public class ArrayList_Methods {
 
 	public static void main(String[] args) 
 	{
-		ArrayList<Object> al=new ArrayList<>();
+		ArrayList al=new ArrayList();
 		
 		boolean a2 = al.add("Vijay");
 		
@@ -43,7 +43,7 @@ public class ArrayList_Methods {
 		al.set(0,"Kumar");
 		
 		System.out.println(al);
-		
+		System.out.println("+++++++++++++++++++++++");
 		System.out.println(al.size());
 		al.remove("Kumar");
 		System.out.println(al);

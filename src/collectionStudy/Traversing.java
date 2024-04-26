@@ -18,6 +18,7 @@ public class Traversing {
 		
 		System.out.println(al);
 		System.out.println(al.get(3));
+		System.out.println(al.size());
 		
 		System.out.println("===============for Loop=============");
 		
@@ -76,6 +77,12 @@ public class Traversing {
 		list.next();
 		System.out.println(al);
 		list.remove();
+		System.out.println(al);
+		
+		list.add(12);
+		list.add(34);
+		list.next();
+		
 		System.out.println(al);
 		
 		
